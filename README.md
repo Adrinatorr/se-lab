@@ -26,6 +26,14 @@ mvn test
 
 As this is a really simple project, you can use the command-line build tools or a light-weight IDE like [Visual Studio Code](https://code.visualstudio.com/).
 
+Licence:
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Maven build status:
+
+[![Java CI with Maven](https://github.com/Adrinatorr/se-lab/actions/workflows/maven.yml/badge.svg?event=page_build)](https://github.com/Adrinatorr/se-lab/actions/workflows/maven.yml)
+
 ## Overview
 
 The project represents an alpha version of a spaceship.
